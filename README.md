@@ -10,7 +10,7 @@
 |---|---|
 | 📱 **APK (Android)** | [`app-release.apk`](releases/app-release.apk) |
 | 🎬 **Demo Video** | *(YouTube linki eklenecek)* |
-| 💻 **GitHub Repo** | *(Repo linki eklenecek)* |
+| 💻 **GitHub Repo** | [cerenazr/Prediabet](https://github.com/cerenazr/Prediabet) |
 
 ---
 
