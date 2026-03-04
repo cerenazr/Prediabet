@@ -40,11 +40,6 @@
 
 amaçlamaktadır.
 
-**İletişim:**
-- Telefon: 0545 664 76 62
-- E-Posta: ibrahim.topuz@ksbu.edu.tr
-- Website: www.prediabet-tr.com
-
 ---
 
 ## Özellikler
