@@ -8,8 +8,8 @@
 
 | | Bağlantı |
 |---|---|
-| 📱 **APK (Android)** | [`app-release.apk`](releases/app-release.apk) |
-| 🎬 **Demo Video** | *(YouTube linki eklenecek)* |
+| 📱 **APK (Android)** | [app-release.apk](https://github.com/cerenazr/Prediabet/releases/download/v1.0.0/app-release.apk) |
+| 🎬 **Demo Video** | [YouTube'da İzle](https://youtube.com/shorts/0Bueeef7ooA?feature=share) |
 | 💻 **GitHub Repo** | [cerenazr/Prediabet](https://github.com/cerenazr/Prediabet) |
 
 ---
@@ -407,7 +407,7 @@ import { Image } from 'react-native';
 
 Uygulamanın çalışır hali YouTube'da yayınlanmıştır:
 
-> 🎬 **[YouTube Demo Videosu](https://youtube.com)** *(link eklenecek)*
+> 🎬 **[YouTube Demo Videosu](https://youtube.com/shorts/0Bueeef7ooA?feature=share)**
 
 Video içeriği:
 - Giriş ekranı
@@ -423,7 +423,7 @@ Video içeriği:
 
 Android cihazlara doğrudan kurulum için:
 
-> 📥 **[app-release.apk](releases/app-release.apk)** — Release build (Gradle, 64MB)
+> 📥 **[app-release.apk](https://github.com/cerenazr/Prediabet/releases/download/v1.0.0/app-release.apk)** — Release build (Gradle, 64MB)
 
 ### APK'yı Manuel Kurmak İçin
 
